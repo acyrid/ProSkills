@@ -54,7 +54,7 @@
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
             <version>1.2.4-R0.1-SNAPSHOT</version>
-            <!-- If you want the lates, use this -->
+            <!-- If you want the latest, use this -->
             <!-- <version>LATEST</version> -->
             <type>jar</type>
             <scope>compile</scope>
